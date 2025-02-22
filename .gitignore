@@ -2,6 +2,7 @@
 .pytest_cache
 __pycache__
 dist/
+lib/
 .env
 assets/*
 .idea
@@ -9,3 +10,16 @@ test/
 docs_crew/
 chroma.sqlite3
 old_en.json
+db/
+test.py
+rc-tests/*
+*.pkl
+temp/*
+.vscode/*
+crew_tasks_output.json
+.codesight
+.mypy_cache
+.ruff_cache
+.venv
+agentops.log
+test_flow.html
